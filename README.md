@@ -4,6 +4,8 @@
 
 **Dataset:** https://kh3-ls-storage.s3.us-east-1.amazonaws.com
 
+**Google Collab:** https://colab.research.google.com/drive/1lUlH-IIna4lLkAPZpSlTw6TSc4FOPbvX
+
 **Short Description:** FaultFindy leverages Deep Learning to predict faulty tyres during the manufacturing process, enabling proactive optimization and reduced waste.
 
 **Problem Addressed:** Traditional quality control methods often identify faulty tyres only after production, leading to waste and inefficiency. FaultFindy addresses this by predicting faults early in the process, allowing for corrective actions and improved production quality.
